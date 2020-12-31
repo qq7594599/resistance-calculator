@@ -1,0 +1,7 @@
+{
+  "name": "ResistanceCalc",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
